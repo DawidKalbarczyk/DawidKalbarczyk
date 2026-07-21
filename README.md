@@ -1,4 +1,4 @@
-## Cześć! 👋
+# Student geoinformatyki na Wojskowej Akademii Technicznej
 
 Rozwijam swoje umiejętności zarówno w backendzie, jak i frontendzie. 
 
