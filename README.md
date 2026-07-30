@@ -5,6 +5,7 @@ Zajmuję się programowaniem, danymi przestrzennymi, fotogrametrią i geodezją,
 💻 **Mój Tech Stack:**
   * **Backend:** Python, FastAPI, PostgreSQL
   * **Frontend:** HTML, SCSS, JavaScript
+  * **Inne:** Docker, CI/CD, Optymalizacja kodu
   * 🌱 **Obecnie uczę się:** Angular, TypeScript
 
 🗂️ **Moje projekty:**
