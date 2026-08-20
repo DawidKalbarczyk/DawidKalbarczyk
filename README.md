@@ -10,5 +10,6 @@ Zajmuję się programowaniem, danymi przestrzennymi, fotogrametrią i geodezją,
 
 🗂️ **Moje projekty:**
   * **Strona kosmetologiczna:** [Obsession Kozienice](https://www.obsession-kozienice.pl)
+  * **Geoportal miejscowości:** https://github.com/DawidKalbarczyk/Angular_SpringBoot
 
 📫 **Kontakt:** [k_kalbarczyk@o2.pl](mailto:k_kalbarczyk@o2.pl)
